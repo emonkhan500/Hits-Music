@@ -2,7 +2,7 @@ import React from 'react';
 
 const Release = () => {
     return (
-        <div className='bg-black pt-20 pb-10 fonts'>
+        <div className='bg-black pt-20 pb-20 fonts'>
             <h1 className='text-center text-white text-3xl font-normal tracking-widest pb-6'>LATEST RELEASES</h1>
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 px-40 lg:px-72'>
 

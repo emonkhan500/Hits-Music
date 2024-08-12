@@ -5,6 +5,9 @@ import Release from '../Components/Release/Release';
 import Production from '../Components/Production/Production';
 import Artist from '../Components/artist/Artist';
 import Logo from '../Components/Logo/Logo';
+import Gallery from '../Components/Gallrey/Gallery';
+import Contact from '../Components/Contact/Contact';
+import Footer from '../Components/Footer/Footer';
 
 const Home = () => {
     return (
@@ -15,6 +18,9 @@ const Home = () => {
             <Production></Production>
             <Artist></Artist>
             <Logo></Logo>
+            <Gallery></Gallery>
+            <Contact></Contact>
+            <Footer></Footer>
         </div>
     );
 };

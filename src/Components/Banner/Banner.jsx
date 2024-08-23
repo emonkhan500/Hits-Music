@@ -5,7 +5,7 @@ const Banner = () => {
         <div>
           <div className="carousel fonts w-full">
   <div id="slide1" className="carousel-item relative w-full">
-  <div className='flex w-full  justify-between px-16   lg:px-80 bg-black items-center '> 
+  <div className='flex flex-col md:flex-row w-full  justify-between px-16   lg:px-80 bg-black items-center '> 
   <div>
   <h1 className='text-6xl flex-1 font-extrabold text-white '>YOUR <br />       <span className='text-[#F48C06] font-extrabold'>FIRST HIT</span> <br />
    STARTS 
@@ -23,7 +23,7 @@ const Banner = () => {
     </div>
   </div>
   <div id="slide2" className="carousel-item relative w-full">
-  <div className='flex w-full  justify-between px-16   lg:px-80 bg-black items-center '> 
+  <div className='flex w-full flex-col md:flex-row  justify-between px-16   lg:px-80 bg-black items-center '> 
   <div>
   <h1 className='text-6xl flex-1 font-extrabold text-white '>YOUR <br />       <span className='text-[#F48C06] font-extrabold'>FIRST HIT</span> <br />
    STARTS 

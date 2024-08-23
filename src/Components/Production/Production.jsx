@@ -21,7 +21,7 @@ const Production = () => {
                    
                     justifyContent: 'center',
                     alignItems: 'center',}}
-                className='bg-[#000000BF] flex lg:gap-16 px-10 py-10'>
+                className='bg-[#000000BF] flex flex-col md:flex-row lg:gap-16 px-10 py-10'>
                 <div className='text-white '>
                     <h1 className='text-2xl font-medium uppercase'>Kickstart your music career today</h1>
                     <div className='mb-12 mt-6'>

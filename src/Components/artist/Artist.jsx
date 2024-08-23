@@ -5,7 +5,7 @@ const Artist = () => {
         <div className='bg-black fonts'>
             <h1 className='uppercase pt-20 pb-14 text-white text-lg text-center tracking-widest'>Our Favorite Artists</h1>
             <div>
-                <div className='flex gap-6 justify-center pb-10'>
+                <div className='flex gap-6 px-4 lg:px-0 justify-center pb-10'>
                   <div className='bg-[#F48C06] rounded-t-full rounded-b-full'>
                   <img className='rounded-b-full pt-9 h-full' src="https://i.ibb.co/d7GCkXR/MODEL-2-1.png" alt="" />
                   </div>

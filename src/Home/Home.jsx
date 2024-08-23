@@ -8,6 +8,7 @@ import Logo from '../Components/Logo/Logo';
 import Gallery from '../Components/Gallrey/Gallery';
 import Contact from '../Components/Contact/Contact';
 import Footer from '../Components/Footer/Footer';
+import Flex from '../Components/flex/Flex';
 
 const Home = () => {
     return (
@@ -18,6 +19,7 @@ const Home = () => {
             <Production></Production>
             <Artist></Artist>
             <Logo></Logo>
+            <Flex></Flex>
             <Gallery></Gallery>
             <Contact></Contact>
             <Footer></Footer>

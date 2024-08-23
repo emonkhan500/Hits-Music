@@ -4,7 +4,7 @@ const Release = () => {
     return (
         <div className='bg-black pt-20 pb-20 fonts'>
             <h1 className='text-center text-white text-3xl font-normal tracking-widest pb-6'>LATEST RELEASES</h1>
-            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 px-40 lg:px-72'>
+            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 px-14 lg:px-72'>
 
             <div className="max-w-xs rounded-md shadow-md dark:bg-gray-50 dark:text-gray-800">
 	<img src="https://i.ibb.co/nbYgnV3/Rectangle.png" alt="" className="object-cover object-center w-80  h-80 dark:bg-gray-500" />

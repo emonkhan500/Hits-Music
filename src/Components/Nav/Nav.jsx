@@ -21,7 +21,7 @@ const Nav = () => {
   }, []);
 
   return (
-    <nav className="flex fonts items-center justify-between bg-black px-5 lg:px-24 text-white">
+    <nav className="flex fonts items-center justify-between bg-black px-2 lg:px-24 text-white">
       <div className="flex items-center cursor-pointer rounded-2xl text-xl font-semibold text-white">
         <img
           className="w-32 transition-all duration-200 hover:scale-110 scale-100"
@@ -31,8 +31,8 @@ const Nav = () => {
         <div className="relative ml-2 lg:ml-28 flex items-center">
           <IoIosSearch className="absolute left-3 text-gray-400" />
           <input
-            placeholder="Search Here!"
-            className="rounded-lg bg-[#D9D9D933] lg:px-12 py-2 pl-10 w-full"
+            placeholder="Search  !"
+            className="rounded-lg bg-[#D9D9D933] lg:px-12 py-2 pl-10 w-48 md:w-52 lg:w-full"
             type="text"
           />
         </div>

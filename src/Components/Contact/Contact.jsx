@@ -6,7 +6,7 @@ const Contact = () => {
             <h1 className='text-5xl font-extrabold text-white mt-3'>SUBSCRIBE</h1>
             <div className='space-x-3'>
                 <input 
-                    className='h-11 w-auto lg:w-96 bg-[#E85D04] border-b-2 border-white text-white placeholder-white px-4' 
+                    className='h-11  w-48 lg:w-96 bg-[#E85D04] border-b-2 border-white text-white placeholder-white px-4' 
                     type="email" 
                     placeholder="Your email"
                 />

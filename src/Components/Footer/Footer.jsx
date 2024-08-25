@@ -46,7 +46,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="text-center text-sm mt-8">
-                ©2024 Wardiere. Designed by TemplatesJungle.
+                ©2024 All Rights Reserved to Wardiere. 
             </div>
         </footer>
     );
